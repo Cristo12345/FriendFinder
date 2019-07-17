@@ -36,16 +36,16 @@ var friends = [
             "name":"Billy Bob",
             "photo":"https://en.wikipedia.org/wiki/Billy_Bob_Thornton#/media/File:BillyBobThorntonHWOFFeb2012crop.JPG",
             "scores":[
-                2,
-                3,
-                1,
-                2,
-                3,
-                1,
                 4,
-                1,
-                2,
-                1
+                5,
+                3,
+                4,
+                5,
+                3,
+                4,
+                5,
+                5,
+                4
               ]
             }
 ];
